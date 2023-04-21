@@ -1,4 +1,4 @@
-https://github.com/gibrankhantareen/GibranTareen_FrontendAssignment_SteelEye# My Answers
+# My Answers
 
 Part by Part Explanations:
 
